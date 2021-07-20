@@ -1,0 +1,13 @@
+body{
+    background-color: royalblue;
+}
+h1{
+    color: brown;
+}
+hr{
+    background-color: salmon;
+    border-style: dotted none none;
+    width: 10%;
+
+    
+}
